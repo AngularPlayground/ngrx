@@ -1,0 +1,2 @@
+# ngrx
+Redux >> RxJS >> NgRX
